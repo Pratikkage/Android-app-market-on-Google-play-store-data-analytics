@@ -1,10 +1,12 @@
 # Android App Market on Google Play Data Analytics
 
-![Dashboard Preview](img.jpg)
 
 ## 📋 Overview
 
 The **Android Apps Data Analytics** project provides a comprehensive analysis of Google Play Store app data to uncover trends and patterns that influence app popularity and success. By examining key factors such as user ratings, review counts, app size, and download numbers, this analysis identifies elements that contribute to an app’s performance. These insights offer valuable guidance for developers and businesses, supporting data-driven decisions in app development and marketing strategies to enhance visibility and user engagement.
+
+## Dashboard Preview : 
+![Dashboard Preview](https://github.com/Pratikkage/Android-app-market-on-Google-play-store-data-analytics/blob/main/Images/Screenshot%202024-10-28%20104858.jpg)
 
 ## 💡 Key Features
 
@@ -26,4 +28,13 @@ The **Android Apps Data Analytics** project provides a comprehensive analysis of
 - **Microsoft Excel**: For data preparation and analysis.
 - **Microsoft Power BI**: For creating interactive dashboards.
 - **Microsoft PowerPoint**: For presenting the analysis and insights.
+
+## Project insights
+  ![Dashboard Preview](https://github.com/Pratikkage/Android-app-market-on-Google-play-store-data-analytics/blob/main/Images/Screenshot%202024-10-28%20105144.jpg)
+  ![Dashboard Preview](https://github.com/Pratikkage/Android-app-market-on-Google-play-store-data-analytics/blob/main/Images/Screenshot%202024-10-28%20105205.jpg)
+  ![Dashboard Preview](https://github.com/Pratikkage/Android-app-market-on-Google-play-store-data-analytics/blob/main/Images/Screenshot%202024-10-28%20105223.jpg)
+  ![Dashboard Preview](https://github.com/Pratikkage/Android-app-market-on-Google-play-store-data-analytics/blob/main/Images/Screenshot%202024-10-28%20105245.jpg)
+
+
+
 
